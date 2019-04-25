@@ -4,6 +4,7 @@
 #Mail :walter52@sohu.com
 #Function :docker镜像上传阿里云脚本
 #Version :v1.0
+#用"set ff=unix"切换格式
 
 # 变量
 IMAGE_REPOS=("mid_mysql" "mid_nginx")
